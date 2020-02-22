@@ -1,0 +1,21 @@
+
+nav{
+    margin-bottom: 90px;
+}
+body{
+    background-image: url("../images/prism.png");
+}
+.card{
+    margin: 90px;
+    background-image: url("../images/prism.png");
+}
+.card-body{
+    background-color: white;
+}
+.card-text{
+    word-wrap: normal;
+}
+footer{
+    margin-top: 90px;
+}
+
