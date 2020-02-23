@@ -15,12 +15,13 @@ body{
 .card-text{
     word-wrap: normal;
 }
-footer{
-    margin-top: 90px;
-}
-
 form{
     background-color: white;
     margin: 90px;
     padding: 20px;
 }
+footer{
+    margin-top: 90px;
+}
+
+
